@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0fcfac30335b90479afd2d470d43821, type: 3}
+  m_Name: Aura
+  m_EditorClassIdentifier: 
+  Name: Aura
+  Description: Unlock the weapon Aura
+  stats:
+    damage: 2
+    damageMultiplier: 1
+  weaponBasePrefab: {fileID: 8824889492487652699, guid: a9eb9c654a0287248a85d858d40bb772, type: 3}
+  upgrades:
+  - {fileID: 11400000, guid: 3ad2fe705f65d134ea6c8f01c4058110, type: 2}
+  - {fileID: 11400000, guid: 36c724388e2f4b84da1df8e325f55ccc, type: 2}
