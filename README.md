@@ -1,6 +1,6 @@
-# **This is the first game I have done while studying at Futuregames.**
+# **This is from the first course at Futuregames.**
 
-It is from the first "Game Programming with C#" course. We were tasked with making a Vampire Survivors like game that was split into 3 assignments.
+It is from the "Game Programming with C#" course. We were tasked with making a Vampire Survivors like game that was split into 3 assignments.
 
 
 
@@ -21,4 +21,4 @@ It is from the first "Game Programming with C#" course. We were tasked with maki
 - Upgrades
 - Progression
 
-These were the tasks to do while working on the game. For this course, all students were working on their own individual project. And this is the final game I sent in at the end of the course 2024/10/11.
+These were the tasks to do while working on the game. For this course, all of us were working on their own individual project. And this is the final game I sent in at the end of the course 2024/10/11.
